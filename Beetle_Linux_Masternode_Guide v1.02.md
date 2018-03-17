@@ -1,4 +1,4 @@
-## Beetle Masternode Howto v1.03
+## Beetle Masternode Howto v1.02
 
 How to setup a masternode with a Cold Wallet Setup – meaning the coins remain on your desktop wallet and you remote control the masternode on a linux VPS.
 
